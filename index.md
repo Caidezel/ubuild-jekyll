@@ -49,6 +49,9 @@ page_sections:
   col_2:
     headline: AAA
     content: AAA
+  col_3:
+    headline: esesdg
+    content: esdgsdgv
 - template: content-feature
   block: feature-1
   media_alignment: Right
