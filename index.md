@@ -41,6 +41,11 @@ page_sections:
   media:
     image: "/uploads/2018/06/21/blocks-split.png"
     alt_text: uBuild Blocks Mock-Up
+- template: 3-column-text
+  block: three-column-1
+  col_1:
+    headline: TEST
+    content: 'TES 1 '
 - template: content-feature
   block: feature-1
   media_alignment: Right
@@ -75,6 +80,6 @@ page_sections:
 - template: simple-footer
   block: footer-1
   content: Hello world! ❤︎
----
 
+---
 foo bar
