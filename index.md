@@ -46,6 +46,9 @@ page_sections:
   col_1:
     headline: TEST
     content: 'TES 1 '
+  col_2:
+    headline: AAA
+    content: AAA
 - template: content-feature
   block: feature-1
   media_alignment: Right
